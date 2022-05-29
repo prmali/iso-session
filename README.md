@@ -2,6 +2,14 @@
 
 Localize your browsing sessions to specific tabs. Log in to the same website under multiple accounts without having to shift to Incognito.
 
+### Usage
+
+1. Login to application on a tab
+2. Click "Cache Cookies" in extension
+3. Navigate to new tab
+4. Log out of account
+5. Repeat process
+
 ### Iterations
 
 Testing limited to Notion
@@ -56,3 +64,4 @@ Testing limited to Notion
         - Some additional steps can be taken
     - Future:
         - Manual tests with postman or reqbin. Logout and mock a valid request
+        - Build quick web server to test on.
